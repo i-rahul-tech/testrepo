@@ -1,2 +1,3 @@
 Hello from new.
 Edited from git ui.
+Added one more line from git ui.
