@@ -2,3 +2,7 @@ Hello from new.
 Edited from git ui.
 Added line from git bash.
 Added one more line from git ui.
+
+
+
+This is from git ui.
